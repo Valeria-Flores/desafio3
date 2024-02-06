@@ -1,0 +1,13 @@
+{
+  "name":"desafio3",
+  "description": "servidor con express para la lectura de archivos",
+  "version":"1.0.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Valeria Flores",
+  "keywords": [
+    "express",
+    "productos"
+  ]
+}
